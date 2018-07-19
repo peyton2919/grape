@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/grape.iml" filepath="$PROJECT_DIR$/grape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grape-common/grape-common.iml" filepath="$PROJECT_DIR$/grape-common/grape-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grape-manager/grape-manager.iml" filepath="$PROJECT_DIR$/grape-manager/grape-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grape-manager/grape-manager-dao/grape-manager-dao.iml" filepath="$PROJECT_DIR$/grape-manager/grape-manager-dao/grape-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grape-manager/grape-manager-pojo/grape-manager-pojo.iml" filepath="$PROJECT_DIR$/grape-manager/grape-manager-pojo/grape-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grape-manager/grape-manager-service/grape-manager-service.iml" filepath="$PROJECT_DIR$/grape-manager/grape-manager-service/grape-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grape-manager/grape-manager-web/grape-manager-web.iml" filepath="$PROJECT_DIR$/grape-manager/grape-manager-web/grape-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grape-parent/grape-parent.iml" filepath="$PROJECT_DIR$/grape-parent/grape-parent.iml" />
+    </modules>
+  </component>
+</project>

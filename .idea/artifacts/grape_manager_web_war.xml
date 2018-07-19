@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="grape-manager-web:war">
+    <output-path>$PROJECT_DIR$/grape-manager/grape-manager-web/target</output-path>
+    <root id="archive" name="grape-manager-web.war">
+      <element id="artifact" artifact-name="grape-manager-web:war exploded" />
+    </root>
+  </artifact>
+</component>
